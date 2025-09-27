@@ -96,5 +96,6 @@ We envision a future where color ownership becomes a new form of digital asset, 
 - `registerColor(string name, string hexCode)` - Register a new color
 - `getColor(string hexCode)` - Get color information  
 - `transferColor(string hexCode, address to)` - Transfer color ownership
+<img width="1353" height="754" alt="Screenshot 2025-09-27 135128" src="https://github.com/user-attachments/assets/f3e62641-92b9-4858-9188-6e74fff73067" />
 
-**Join the Color Revolution! 🌈**
+**Join the Color Revolution! 🌈** 
